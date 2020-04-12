@@ -1,8 +1,7 @@
 name: poke_api_search
 description: Package para consulta da api do Pokemon
 version: 1.0.0
-author:
-homepage: github.com/toshiossada
+homepage: https://github.com/toshiossada/poke_api_search
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
